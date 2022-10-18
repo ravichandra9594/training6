@@ -9,4 +9,11 @@ Seventh line changes by "Main dev"
 Sevent Line Main branch is making changes
 
 Checking Git Reset
-Added 2 lines to check soft reset 
+Added 2 lines to check soft reset
+_________________________________________________________________________________________________
+	
+		MAIN CHANGES
+_________________________________________________________________________________________________
+
+The main branch is making some changes here.
+ 
