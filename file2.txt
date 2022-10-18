@@ -1,4 +1,4 @@
-This is a file added by "Main-Dev" branch
+his is a file added by "Main-Dev" branch
 This is the second line
 This is the third line.
 This is the main making changes in file2 4th line where main-dev worked. Main-dev making further changes to this line.
@@ -7,3 +7,6 @@ Fifth Line.
 Seventh line changes by "Main dev"
 
 Sevent Line Main branch is making changes
+
+Checking Git Reset
+Added 2 lines to check soft reset 
