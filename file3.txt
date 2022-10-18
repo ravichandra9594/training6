@@ -1,1 +1,2 @@
-Changes made in file3.txt will reset the changes after adding and committing.
+Changes made in file3.txt will reset the changes after adding and committing
+New changes Made.

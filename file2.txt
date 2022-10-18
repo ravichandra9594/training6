@@ -8,10 +8,5 @@ Seventh line changes by "Main dev"
 
 Sevent Line Main branch is making changes
 
-
-
-Git reset will undo changes
-Adding 2 lines to undo changes.
-Adding further
-
-
+Checking Git Reset
+Added 2 lines to check soft reset 
