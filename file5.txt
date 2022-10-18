@@ -1,0 +1,3 @@
+This file is being added to demonstrate the git reset --soft in the working directory.
+Adding a new line
+________________________________________________________________________________________
